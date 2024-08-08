@@ -1,2 +1,3 @@
 A simple counter program
-Preview[https://a6ih-counter.netlify.app/]
+
+[Preview](https://a6ih-counter.netlify.app/)
